@@ -1,0 +1,66 @@
+@font-face{
+font-family:cheri;
+src:url('../fontes/CHERI.ttf');	
+}
+
+@font-face{
+font-family:art;
+src:url('../fontes/ART.otf');	
+}
+
+@font-face{
+font-family:roboto;
+src:url('../fontes/Roboto-Light.ttf');	
+}
+
+#titulo{
+font-family:art;
+background-color:#3f463cd8;
+box-shadow: 6px 6px 25px rgba(229, 241, 10, 0.97);
+text-align:center;
+color:#e2d9d9;
+font-size:3.4rem;
+}
+
+#letra{
+	font-size:3.4rem;
+	color:rgb(243, 233, 130);
+}
+
+.cabec{
+	width:100%;
+}
+
+
+.txt{
+	width:28%;
+	font-family:roboto;
+	font-size:1.4em;
+	border: solid black; 
+	background-color:rgb(244, 240, 22);
+	
+}
+
+.fig{
+  width:50%;
+  
+   
+}
+
+
+
+	p{
+		text-align: center;
+		font: normal 14pt italic;
+		color:#0f0e0ee1;
+		width:50%;
+		height:25px;
+		
+		background-color:#e0e0eb;
+		box-shadow: 8px 8px 25px rgb(246, 230, 5)
+	
+	
+	}
+
+	
+	
